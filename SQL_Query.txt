@@ -1,0 +1,7 @@
+select cd.Year, cd.City, cd.avg_temp City_Avg_Temp, cl.Country, gd.avg_temp Global_Avg_Temp 
+From city_data cd
+Join city_list cl
+On cl.city = cd.city
+Join global_data gd
+On gd.year = cd.year
+Where cd.city = 'San Jose';
