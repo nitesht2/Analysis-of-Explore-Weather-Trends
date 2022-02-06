@@ -1,4 +1,4 @@
-# Time Sereis Analysis to Explore Weather Trends
+# Analysis of Weather Trends using Moving Average
 
 In this project I have analyzed local and global temperature data. Then I used moving average and compared the temperature trend of the city where I live(SanJose) to overall global temperature trends.
 
