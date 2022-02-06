@@ -1,2 +1,7 @@
 # Time Sereis Analysis to Explore Weather Trends
-Udacity Project: analyze local and global temperature data and compare the temperature trends where you live to overall global temperature trends.
+
+In this project I have analyzed local and global temperature data. Then I used moving average and compared the temperature trendsof the city where live to overall global temperature trends.
+
+Finally the data vizualization was done in Tableau which is shown below:
+
+
